@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farell Dio Revianzha</h1>
 <h3 align="center">I’m an undergraduate Informatics student who is passionate about technology, especially web development and software engineering. I enjoy learning new tools, building projects, and improving my problem-solving skills through code.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/frevszz](https://github.com/frevszz)
+👨‍💻 All of my projects are available at [https://github.com/frevszz](https://github.com/frevszz)
 
-- 🌱 Currently Learning **JavaScript, React.js, Frontend best practices, Database design**
+🌱 Currently Learning **JavaScript, React.js, Frontend best practices, Database design**
 
-- 📫 How to reach me **farelldio1@gmail.com**
+📫 How to reach me **farelldio1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
