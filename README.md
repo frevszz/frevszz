@@ -3,7 +3,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/frevszz](https://github.com/frevszz)
 
-🌱 Currently Learning **JavaScript, React.js, Frontend best practices, Database design**
+🌱 Currently Learning **Web Development and Database design**
 
 📫 How to reach me **farelldio1@gmail.com**
 
