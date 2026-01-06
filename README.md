@@ -7,12 +7,12 @@
 
 📫 How to reach me **farelldio1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/farell-dio-revianzha-2160b2365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farell dio revianzha" height="30" width="40" /></a>
-<a href="https://instagram.com/frevianzha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frevianzha_" height="30" width="40" /></a>
-<a href="https://discord.gg/743640044010733669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="743640044010733669" height="30" width="40" /></a>
-</p>
+### 🌐 Connect with me
+
+<a href="https://linkedin.com/in/farell-dio-revianzha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farell-dio-revianzha" height="30" width="40" /></a>
+<a href="https://instagram.com/frevianzha_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frevianzha_" height="30" width="40" /></a>
+<a href="https://discord.gg/743640044010733669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="farell-discord" height="30" width="40" /></a>
+<a href="https://farellspace.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="farell-website" height="30" width="40" /></a>
 
 ### 🛠 Tech Stack
 
